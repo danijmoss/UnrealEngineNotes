@@ -41,8 +41,26 @@ Unreal Engine helps you make awesome games. It's free now! Get it!
         - UE provides a set of basic lights: Directional Light, Point Light, Spot Light, and Sky Light
         - effective design of light also creates realistic shadows for your game
         - two types of shadows: static and dynamic
-
-
+    - Post-process effects
+        - effects that are added at the end to improve the quality of the scene
+        - UE offers full scene high dynamic range rendering (HDRR)
+        - UE4 post-process effects include Anti-Aliasing using Temporal Anti-Aliasing (TXAA), Bloom, Color Grading, Depth of Field, Eye Adaptation, Lens Flare, Post Process Materials, Scene Fringe, Screen Space Reflection, and Vignette
+        - users are normally given the option to turn them off, if desired because they often consume reasonable amount of additional resources in return for better visuals
+    - Artifical intelligence
+        - intelligence created by humans to mimic real life
+        - humans created AI to give objects a brain, the ability to think, and make decisions on their own
+        - made up of complex rule sets that help objects make decisions and perform their designed function/behavior
+        - UE4 provides a good basic AI and lays the foundation for you to customize and improve the AI of the NPCs in your game
+    - Online and multiplatform capabilities 
+        - it also has an online subsystem to provide games the ability to integrate functionalities that are available on Xbox Live, Facebook, Steam, etc
+- Unreal Engine and its powerful editors
+    - Unreal Editor
+        - the main editor that allows access to other subsystems, such as the Material and Blueprint subsystems
+        - provides a visual interface made up of viewports and windows to enable you to import, organize, edit, and add behaviors/interactions to your game assets
+        - other subeditors/subsystems have very specialized functions that allow you to control details of an asset
+        - allows physical placement of assets and gives users the ability to control gameplay variables without having to make changes in the code
+    - Material editor
+        - 
 ---
 # Vocab list
 - particle effect - disply of sparks, smoke, crumbling wall to show interaction
@@ -62,3 +80,10 @@ computer through artificial intelligence)
 - Sky Light - mimics light from the sky downwards on the objects in the level
 - Static shadows - can be prebaked into the scene which makes them quick to render
 - Dynamic shadows - changed during runtime and are more expensive to render
+- High dynamic range rendering (HDRR) - This allows objects that are bright to be very bright and dark to be very dark, but we are still able to see details in
+them
+- Temporal Anti-Aliasing (TXAA) 
+- Artifical intelligence - intelligence created by humans to mimic real life
+- Universal Windows Platform (UWP)
+
+
